@@ -16,5 +16,6 @@ public class ComplexitatCiclomatica {
             return coincidencies; //8
         }
         //f
+        //comentario adicional sin sentido :D
     }
 }
